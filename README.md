@@ -1,4 +1,4 @@
-![크롤링_01](https://github.com/JUICE-JinHyeong/Review_Crawling/assets/111718162/bb8e3942-caf6-4d56-b3e9-0de3f0f221fe)# Review_Crawling
+
 
 ## 크롤링 데이터 솔루션을 통한 데이터 수집
 

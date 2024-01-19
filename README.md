@@ -1,14 +1,38 @@
 
+<details>
+  <summary><b>토글 연습하기 1</b></summary>
+  <div markdown="1">
+   <ul>
+     <li>토글연습중입니다 1</li>
+     <li>토글을 리스트로 나열중입니다.</li>
+     <li>가나다라마바사&nbsp아자차카타파하</li>
+     <li>&nbsp&nbsp&nbsp(&)nbsp는 공백을 의미합니다 &nbsp&nbsp&nbsp</li>
+   </ul>
+  </div>
+ <div markdown="2">
+  <ul>
+   <li>연습중입니다.</li>
+  </ul>
+ </div>
+</details>
 
 ## 크롤링 데이터 솔루션을 통한 데이터 수집
 
-프로젝트 개요
+**프로젝트 개요**
+<br/>
 프로젝트 기획
+<br/>
+<br/>
 프로젝트 구성
+<br/>
 프로젝트 결론
+<br/>
+<br/>
+<br/>
+<br/>
 
 
-1. 리뷰 크롤링 프로젝트
+** 1. 리뷰 크롤링 프로젝트 **
 2. 프로젝트 설명(무슨 프로젝트인지)
  - 2023 SW 캠퍼스 아카데미 지원사업 tibero 단국대 TABA 2기, 기간, 주제관련 설명
 3. 프로젝트명
@@ -45,7 +69,6 @@
 
 14. 모델
 <img src="https://github.com/JUICE-JinHyeong/Review_Crawling/assets/111718162/5b975fad-3352-4d71-92b8-4ba40c57eaef.png" width="700" height="400"/>
-
 
 
 

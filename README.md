@@ -1,36 +1,90 @@
+# Review_Crawling_project 
+크롤링 데이터 솔루션을 통한 데이터 수집
 
+## 1. 프로젝트명
+
+Re.staurant(Review Restaurant)
+- 네이버 식당 리뷰를 크롤링하고 성향판단해보기
+
+## 2. 프로젝트 개요
+
+- 크롤링 데이터 솔루션을 통해 데이터 수집
+  
+  1\) &nbsp;(네이버) 리뷰 키워드를 쉽게 보여주고</br>
+  2\) &nbsp;리뷰를 성향별로 나누어주며</br>
+  3\) &nbsp;누구나 손쉽게 리뷰를 판단할 수 있는 서비스 제공</br>
+
+- 진행기관
+  - TmaxTibero
+  - DKU 단국대학교
+  - 한국클라우드컴퓨팅연구조합
+  - 정보통신기획평가원
+  - 과학기술정보통신부
+  - 캠퍼스 SW아카데미 TABA 2기
+ 
+- 프로젝트 계기
+  
+   - 과도한 허위 리뷰와 바이럴 마케팅으로 인한 리뷰의 객관적 판단 어려움
+     
+   - 서비스 대상자
+     코로나 19 엔데믹 후 증가하는 여행객들을 대상으로 선정
+
+  - 리뷰 주제
+     관광 지출액 비율중 식음료의 비율이 가장 높아 제공 서비스를 식당 리뷰로 선택
+
+  <img src="https://github.com/JUICE-JinHyeong/Review_Crawling/assets/111718162/694e0564-0e26-4a03-8dc6-76948003e951.png" width="700" height="400"/>
+
+## 3. 프로젝트 기획
+
+### <전체 아키텍쳐>
+ - System Architecture
+<br/><img src="https://github.com/JUICE-JinHyeong/Review_Crawling/assets/111718162/e46bdcec-4a13-486a-8b2a-8d4d50da0b63.png" width="700" height="450"/>
+
+### <로드맵>
+ - RoadMap
+<br/><img src="https://github.com/JUICE-JinHyeong/Review_Crawling/assets/111718162/dc83698f-88c6-4d6a-b62a-cef1217a7824.png" width="700" height="300"/>
+
+
+## 4. 프로젝트 구성
+
+### <개발환경>
+- FrontEnd
+  - React
+  - Figma
+- BackEnd
+  - SpringBoot
+- DataBase
+  - Tibero6
+- CD/CI/CB
+  - Github, Notion
+- Crawling
+  - Docker
+  - Jupyter
+    python
+    - Selenium
+    - ChromDriver
+    - Requests
+    - BeautifulSoup
+
+
+
+### UI/UX
 <details>
-  <summary><b>토글 연습하기 1</b></summary>
-  <div markdown="1">
-   <ul>
-     <li>토글연습중입니다 1</li>
-     <li>토글을 리스트로 나열중입니다.</li>
-     <li>가나다라마바사&nbsp아자차카타파하</li>
-     <li>&nbsp&nbsp&nbsp(&)nbsp는 공백을 의미합니다 &nbsp&nbsp&nbsp</li>
-   </ul>
-  </div>
- <div markdown="2">
-  <ul>
-   <li>연습중입니다.</li>
-  </ul>
- </div>
+<summary><head> 펼치기 </head></summary>
+
+#### 홈 화면 소개
+  - home1
+  <br/><img src="https://github.com/JUICE-JinHyeong/Review_Crawling/assets/111718162/7153ae47-d9d1-460b-bfeb-972ac8e4187c" width="900" height="400"/>
+
+#### 결과 화면 소개(워드클라우드)
+  - home2
+  <br/><img src="https://github.com/JUICE-JinHyeong/Review_Crawling/assets/111718162/3cc6433f-9f8e-4e59-ac12-ccf226c394fd" width="900" height="400"/>
+
+#### 결과화면 소개 (리뷰 성향 분류)
+  - home3
+  <br/><img src="https://github.com/JUICE-JinHyeong/Review_Crawling/assets/111718162/95814414-7a96-427e-8682-63f4706a54b9" width="900" height="600"/>
+
 </details>
-
-## 크롤링 데이터 솔루션을 통한 데이터 수집
-
-**프로젝트 개요**
-<br/>
-프로젝트 기획
-<br/>
-<br/>
-프로젝트 구성
-<br/>
-프로젝트 결론
-<br/>
-<br/>
-<br/>
-<br/>
-
 
 ** 1. 리뷰 크롤링 프로젝트 **
 2. 프로젝트 설명(무슨 프로젝트인지)
@@ -42,17 +96,16 @@
 5. 문제점 한 두줄?
 
 허위리뷰를 통한 바이럴 마케팅의 기승과 네이버 리뷰의 별점 삭제로 인한 다양한 시점의 리뷰 접근의 어려움.
-<img src="https://github.com/JUICE-JinHyeong/Review_Crawling/assets/111718162/694e0564-0e26-4a03-8dc6-76948003e951.png" width="700" height="400"/>
+
 
 6. 코로나 19 엔데믹 후 증가하는 여행객들을 대상으로 선정하였으며, 관광 지출액 비율중 식음료의 비율이 가장 높아 제공 서비스를 식당 리뷰로 선택함.
 
 7. 한글 자연어 처리를 위해 KonLpy의 Okt를 사용하였으며 필요한 형태소 및 단어들을 보완작업하여 자연어 처리 완성도를 증가하였다.
 
 8. 전체 아키택쳐
-<img src="https://github.com/JUICE-JinHyeong/Review_Crawling/assets/111718162/e46bdcec-4a13-486a-8b2a-8d4d50da0b63.png" width="700" height="400"/>
 
 9. 로드맵
-<img src="https://github.com/JUICE-JinHyeong/Review_Crawling/assets/111718162/dc83698f-88c6-4d6a-b62a-cef1217a7824.png" width="700" height="400"/>
+
 
 10. 개발환경
 리액트 피크마 스프링부트 티베로6 깃허브 도커 노션 

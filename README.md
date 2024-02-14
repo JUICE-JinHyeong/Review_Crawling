@@ -58,14 +58,14 @@ Re.staurant(Review Restaurant)
 - CD/CI/CB
   - Github, Notion
 - Crawling
-  - Docker
   - Jupyter
     python
     - Selenium
     - ChromDriver
     - Requests
     - BeautifulSoup
-
+- 기타
+  - Docker
 
 
 ### UI/UX

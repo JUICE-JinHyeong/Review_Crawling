@@ -1,20 +1,25 @@
 # Review_Crawling_project 
-크롤링 데이터 솔루션을 통한 데이터 수집
+- 크롤링 데이터 솔루션을 통한 데이터 수집
 <br/>
-<br/>
-<br/>
-
 
 ## 1. 프로젝트명
 
 Re.staurant(Review Restaurant)
 - 네이버 식당 리뷰를 크롤링하고 성향판단해보기
-  
-- Tmax Tibero : TABA2기 ( 캠퍼스 SW 아카데미 지원사업) <br/>
-- CCCR : 한국클라우드컴퓨팅연구조합 <br/>
-- 과학기술정보통신부 <br/>
-- 단국대학교
-  
+
+- 진행기관
+  - Tmax Tibero : TABA2기 ( 캠퍼스 SW 아카데미 지원사업) <br/>
+  - CCCR : 한국클라우드컴퓨팅연구조합 <br/>
+  - 과학기술정보통신부 <br/>
+  - 단국대학교
+
+- Team
+  - TABA2기 4조
+  - 팀원 : 김영호, 손혜민, 우주혜, 이영민, 최진형
+  - NOTION : https://tabateam4.notion.site/f0dd2292c8304925bdcefb84cf30e76c?v=dcfa3d3b2b7948c19a48a75484cc883e&pvs=4
+
+<br/><br/>
+
 ## 2. 프로젝트 개요
 <br/>
 <크롤링 데이터 솔루션을 통해 데이터 수집>
@@ -24,6 +29,7 @@ Re.staurant(Review Restaurant)
   3) &nbsp;누구나 손쉽게 리뷰를 판단할 수 있는 서비스 제공</br>
 
 <br/>
+
  
 - 프로젝트 계기
   
@@ -45,8 +51,6 @@ Re.staurant(Review Restaurant)
 <img src="https://github.com/JUICE-JinHyeong/Review_Crawling/assets/111718162/694e0564-0e26-4a03-8dc6-76948003e951.png" width="700" height="400"/>
 <br/>
 <br/>
-<br/>
-
 
 
 ## 3. 프로젝트 기획
@@ -61,6 +65,9 @@ Re.staurant(Review Restaurant)
  - System Architecture<br/>
  <img src="https://github.com/JUICE-JinHyeong/Review_Crawling/assets/111718162/e46bdcec-4a13-486a-8b2a-8d4d50da0b63.png" width="700" height="450"/>
 
+
+<br/>
+<br/>
 
 <details>
 <summary><head> Architecture 상세보기 </head></summary>
@@ -79,7 +86,7 @@ Re.staurant(Review Restaurant)
 
 </details>
 <br/>
-<br/>
+
 
 ## 4. 프로젝트 구성
 
